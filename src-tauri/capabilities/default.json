@@ -18,6 +18,12 @@
     "os:default",
     "os:allow-locale",
     "os:allow-platform",
-    "notification:default"
+    "notification:default",
+    "updater:default",
+    "dialog:default",
+    "process:default",
+    "updater:allow-check",
+    "updater:allow-download",
+    "process:allow-restart"
   ]
 }
